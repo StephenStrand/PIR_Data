@@ -1,0 +1,9 @@
+Projection    STATEPLANE
+Fipszone      3601
+Datum         HPGN
+Spheroid      GRS80
+Units         3.280839895013123
+Zunits        NO
+Xshift        0.0
+Yshift        0.0
+Parameters    
